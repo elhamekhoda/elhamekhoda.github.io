@@ -2,24 +2,51 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Computational Data Science Researcher
+
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: elham_20240730.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Office: SDSC Central Building, Room 315</p>
+    <p>9500 Gilman Drive, MC 0505</p>
+    <p>La Jolla, California, 92093</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+<a href='https://www.sdsc.edu/'>San Diego Supercomputing Center (SDSC) </a> at the <a href='https://ucsd.edu/'>University of California, San Diego (UCSD) </a> <br>
+Email: <a style="color:purple;" href='mailto:ekhoda@ucsd.edu'>ekhoda@ucsd.edu
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<br>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am a Computational Data Science Researcher at the San Diego Supercomputer Center (UCSD), where I manage computing resources for the National Research Platform (NRP) and support researchers in advancing their work. With a background in particle physics, I specialize in developing Machine Learning (ML) algorithms for both offline and real-time data analysis, bridging the gap between cutting-edge computational techniques and impactful scientific discovery.
+
+My current research focus includes:
+- Efficient ML algorithms for scientific applications (Eg. HEP trigger, nouroscience)
+- Uncertainty-aware ML algorithm 
+
+If you want to collaborate please reach out to me.
+
+<br>
+
+<h5> Breif Academic History </h5>
+<ul>
+  <li><b>Postdoctoral Scholar</b></li>
+    University of Washington, Seattle, 2021 - 2024 <br>
+    Visiting Affiliate: Lawrence Berkeley National Laboratory, 2022 - 2024
+  <li><b>Ph.D. in Physics</b> </li>
+    University of British Columbia, Vancouver, Canada , 2021
+  <li><b>BS-MS Dual Degree in Physical Sciences</b></li>
+    Indian Institute of Science Education and Research (IISER), Kolkata, India, 2015
+</ul>
+
+<!-- As a trained Experiemental Particle Physicist, I am interested Fast and Efficient Machine Learning -->
+
+<br>
+
+
